@@ -1,0 +1,10 @@
+POST http://localhost:5000/api/post
+Accept:application/json
+Content-Type: application/json
+
+{
+    "title": "Laravel",
+    "descriptions":"Laravel cool",
+    "url":"Laravel",
+    "images":"its time"
+}

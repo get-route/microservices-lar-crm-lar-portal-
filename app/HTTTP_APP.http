@@ -1,0 +1,10 @@
+PUT http://localhost:5000/api/post/101
+Accept: application/json
+Content-Type: application/json
+
+{
+    "title": "Тестовая запись проверка",
+    "descriptions": "Это все...",
+    "url": "test...",
+    "images":"Это все..."
+}
